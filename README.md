@@ -14,7 +14,7 @@ If you want to learn how to create it please follow below tutorial👇: <br />
 https://youtu.be/1QGLHOaRLwM <br />
 [![YouTube Video Views](https://img.shields.io/youtube/views/1QGLHOaRLwM?style=social)](https://youtu.be/1QGLHOaRLwM)<br />
 
-Checkout My Personal blog: []()<br />
+Checkout My Personal blog: [Fahim Nirjon](https://fahimnirjon.github.io/Fahim-Nirjon/)<br />
 
 
 ### ⭐DO NOT FORGET TO STAR THIS REPO⭐
