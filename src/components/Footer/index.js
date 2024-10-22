@@ -81,7 +81,7 @@ const Footer = () => {
 
       <div className="w-full  mt-16 md:mt-24 relative font-medium border-t border-solid border-light py-6 px-8 flex  flex-col md:flex-row items-center justify-between">
         <span className="text-center">
-          &copy;2024 Beyond The Stacks. All rights reserved.
+          &copy;2024-2025 Beyond The Stacks. All rights reserved.
         </span>
         <Link
           href="/Beyond The Stacks"
