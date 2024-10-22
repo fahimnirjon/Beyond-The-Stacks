@@ -10,8 +10,7 @@ For Demo checkout following links👇: <br />
 Starter Code Files👇: <br />
 [Nextjs Personal Blog Website Starter Code]() <br />
 
-If you want to learn how to create it please follow below tutorial👇: <br />
-https://youtu.be/1QGLHOaRLwM <br />
+If you want to learn how to create it please follow below tutorial👇: <br /><br />
 [![YouTube Video Views](https://img.shields.io/youtube/views/1QGLHOaRLwM?style=social)](https://youtu.be/1QGLHOaRLwM)<br />
 
 Checkout My Personal blog: [Fahim Nirjon](https://fahimnirjon.github.io/Fahim-Nirjon/)<br />
